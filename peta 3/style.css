@@ -1,0 +1,44 @@
+body {
+    height: 99vh;
+    justify-content: center;
+    display: flex;
+    
+}
+h1 {
+    font-size: 50px;
+    padding-top: 10px;
+}
+h3 {
+    font-size: 30px;
+}
+section {
+    background-color: blue;
+    width: 50%;
+    text-align: center;
+}
+p {
+    font-size: 30px;
+}
+#input1 {
+    padding: 15px 15px;
+    text-align: center;
+} 
+#tip1 {
+    padding: 15px 15px;
+    width: 40%;
+    text-align: center;
+}
+.btn {
+    padding: 15px 15px;
+
+}
+.input2 {
+    padding: 15px 15px;
+    text-align: center;
+}
+.reset {
+    padding: 15px 15px;
+}
+h4 {
+    font-size: 20px;
+}
